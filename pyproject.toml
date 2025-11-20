@@ -44,7 +44,7 @@ classifiers = [
 
 dependencies = [
     "anndata>=0.8.0",
-    "numpy>=1.21,<2.0",
+    "numpy>=1.21",
     "scipy>=1.7.0",
     "pandas>=1.3.0",
     "scikit-learn>=1.0.0",
